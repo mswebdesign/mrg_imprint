@@ -1,0 +1,5 @@
+build/app/code/community/Symmetrics/Imprint/                                app/code/community/Symmetrics/Imprint/
+build/app/design/adminhtml/default/default/template/symmetrics/imprint/     app/design/adminhtml/default/default/template/symmetrics/imprint/
+build/app/design/frontend/default/default/template/symmetrics/imprint/      app/design/frontend/default/default/template/symmetrics/imprint/
+build/app/etc/modules/Symmetrics_Imprint.xml                                app/etc/modules/Symmetrics_Imprint.xml
+build/app/locale/de_DE/Symmetrics_Imprint.csv                               app/locale/de_DE/Symmetrics_Imprint.csv
